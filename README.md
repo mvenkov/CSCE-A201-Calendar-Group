@@ -1,5 +1,6 @@
 # CSCE-A201-Calendar-Group
 TUI calendar group project for CSCE A201 Fall Semester 2024
+
 //11/11 Mark Implemented a template for the calendar and drafted the code for project
 
 //11/14 Mark submitted code and group meet through discord and review code. 
