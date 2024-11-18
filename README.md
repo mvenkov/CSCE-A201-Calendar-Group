@@ -15,7 +15,7 @@ This is a simple C++ program that displays a yearly calendar. It allows users to
 
 ## Building and Running
 1. Ensure you have a C++ compiler installed (e.g., g++, clang++, MSVC).
-2. Compile the program:
+2. Compile the program: with main.cpp and holidays.h in the direcory.
 
 
 ## Usage
