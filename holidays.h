@@ -26,7 +26,7 @@ vector<Holiday> getUSFederalHolidays() {
         {"Martin Luther King Jr. Day", 1, 0, false, 3, 1},
         {"Washington's Birthday", 2, 0, false, 3, 1},
         {"Memorial Day", 5, 0, false, -1, 1},
-        {"Juneteenth National Independence Day", 6, 19, true, 0, 0},
+        {"Juneteenth", 6, 19, true, 0, 0},
         {"Independence Day", 7, 4, true, 0, 0},
         {"Labor Day", 9, 0, false, 1, 1},
         {"Columbus Day", 10, 0, false, 2, 1},
